@@ -10,8 +10,10 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 </div>
 
 - Estou em busca de projetos para colaborar e aprender, explorando o mundo do back-end, e praticando o front.
-- Estudante de Bacharelado em Sistemas de Informação.
+- Estudante de Bacharelado em Sistemas de Informação Turno: Matutino.
+- Estudante de Bacharelado em Ciência da Computação Turno: Noturno.
 - Técnica em Informática.
+- Técnica em Suporte em Informática
   
 
 
