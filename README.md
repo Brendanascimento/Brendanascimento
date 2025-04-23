@@ -3,11 +3,6 @@
 
 Seja muito bem vinda(o) ao meu Perfil! 😉
 
-
-## Títulos 👩‍💻
-
-<p align="center"> Estudante de Análise de Sistemas de Informação • Técnica em Informática </p>
-
 ## Sobre 📝
 
 <div>
